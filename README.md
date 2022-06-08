@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @bruno175
 - 👀 atualmente buscando melhorar meu conhecimento no desenvolvimento de sistemas.
-- 🌱 tecnologias que tenho interresse são, Delphi, .NET/C#, SQL, boas práticas no desenvolvimento, paradigma da POO.
+- 🌱 tecnologias que tenho interresse são: Delphi, .NET/C#, SQL, boas práticas no desenvolvimento, paradigma da POO.
 - 📫 email: brunocesar175@hotmail.com
 
 <!---
