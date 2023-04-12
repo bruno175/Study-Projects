@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou @bruno175
+- 👋 Olá, eu sou Bruno
 - 👀 Atualmente buscando melhorar meu conhecimento no desenvolvimento de sistemas.
 - 🌱 Tecnologias que tenho interresse são: Delphi, .NET/C#, SQL, boas práticas no desenvolvimento back end, paradigma da POO, Design Pattern.
 - 📫 email: brunocesar175@hotmail.com
